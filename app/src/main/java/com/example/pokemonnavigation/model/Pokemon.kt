@@ -63,4 +63,9 @@ fun getPokemons(): List<Pokemon> = listOf(
         "Magikarp",
         "https://img.pokemondb.net/artwork/large/magikarp.jpg", "20"
     ),
+    Pokemon(
+        11,
+        "Magikarp",
+        "https://img.pokemondb.net/artwork/large/magikarp.jpg", "20"
+    ),
 )
